@@ -1,0 +1,137 @@
+div.Background{
+   border-style: solid;
+   border-color: black;
+   border-right: 1px;
+   border-radius: 15px;
+   text-align: center; 
+   background-color: lightgrey;
+}
+div.Background img{
+    border-style: solid;
+    border-width: 3px;
+    border-color: green;
+    position: unset;
+}
+
+body{
+    background-color: bisque;
+}
+
+h1{
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+    font-style: italic;
+	color: #666666;
+	
+}
+div.Question1{
+   border-style: double;
+   border-color: black;
+   border-right: 1px;
+   border-radius: 15px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   color: darkgreen;
+   font-size: large;
+   background-color: lightgrey;
+}
+
+div.Question2{
+    border-style: groove;
+    border-color: black;
+    border-right: 4px;
+    border-radius: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkgreen;
+    font-size: large;
+    background-color: lightgrey;
+}
+
+div.Question3{
+    border-style: groove;
+    border-color: black;
+    border-right: 4px;
+    border-radius: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkgreen;
+    font-size: large;
+    background-color: lightgrey;
+}
+
+div.Question4{
+    border-style: groove;
+    border-color: black;
+    border-right: 4px;
+    border-radius: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkgreen;
+    font-size: large;
+    background-color: lightgrey;
+}
+
+div.Question5{
+    border-style: groove;
+    border-color: black;
+    border-right: 4px;
+    border-radius: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkgreen;
+    font-size: large;
+    background-color: lightgrey;
+}
+
+div.Question6{
+    border-style: groove;
+    border-color: black;
+    border-right: 4px;
+    border-radius: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkgreen;
+    font-size: large;
+    background-color: lightgrey;
+}
+
+h2{
+    font-size: xx-large;
+    font-style: italic;
+    text-decoration: underline;
+	color: #666666;
+
+}
+
+h3{
+    font-size: xx-large;
+    font-style: italic;
+    text-decoration: underline;
+	color: #666666;
+
+}
+
+h4{
+    font-size: xx-large;
+    font-style: italic;
+    text-decoration: underline;
+	color: #666666;
+
+}
+
+h5{
+    font-size: xx-large;
+    font-style: italic;
+    text-decoration: underline;
+	color: #666666;
+}
+
+
+h6{
+    font-size: xx-large;
+    font-style: italic;
+    text-decoration: underline;
+	color: #666666;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkgreen;
+}
